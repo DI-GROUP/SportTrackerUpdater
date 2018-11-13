@@ -1,0 +1,2 @@
+# SportTrackerUpdater
+SportTracker release repository
